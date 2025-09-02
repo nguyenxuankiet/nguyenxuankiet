@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Practice Site — Your Name</title>
+  <meta name="description" content="Practice site for GA4 / GTM / GSC." />
+  <!-- PASTE GTM HEAD SNIPPET HERE (replace GTM-XXXX) -->
+  <!-- PASTE GSC VERIFICATION META HERE (if using meta verification) -->
+</head>
+<body>
+  <!-- PASTE GTM NOSCRIPT SNIPPET HERE (after opening <body>) -->
+
+  <h1>Practice Site</h1>
+  <p>Use this page to test GA4 events & GTM.</p>
+  <button id="testBtn">Click to test event</button>
+
+  <script>
+    document.getElementById('testBtn').addEventListener('click', function(){
+      // This alert just helps you visually test the button
+      alert('Button clicked - now check GTM Preview & GA4 DebugView');
+    });
+  </script>
+</body>
+</html>
