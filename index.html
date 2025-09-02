@@ -5,20 +5,32 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Practice Site — Your Name</title>
   <meta name="description" content="Practice site for GA4 / GTM / GSC." />
-  <!-- PASTE GTM HEAD SNIPPET HERE (replace GTM-XXXX) -->
-  <!-- PASTE GSC VERIFICATION META HERE (if using meta verification) -->
+  
+  <!-- Google Tag Manager (Head) -->
+  <!-- Replace GTM-XXXXXXX with your GTM Container ID -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-XXXXXXX');</script>
+  <!-- End GTM Head -->
+
+  <!-- GSC Verification Tag (will add later in GSC step) -->
 </head>
 <body>
-  <!-- PASTE GTM NOSCRIPT SNIPPET HERE (after opening <body>) -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End GTM NoScript -->
 
-  <h1>Practice Site</h1>
-  <p>Use this page to test GA4 events & GTM.</p>
-  <button id="testBtn">Click to test event</button>
+  <h1>Welcome to My Practice Site</h1>
+  <p>This is a free site to practice GA4, GTM, and GSC setup.</p>
+
+  <button id="testBtn">Click me!</button>
 
   <script>
     document.getElementById('testBtn').addEventListener('click', function(){
-      // This alert just helps you visually test the button
-      alert('Button clicked - now check GTM Preview & GA4 DebugView');
+      alert('Button clicked! Check GTM DebugView.');
     });
   </script>
 </body>
