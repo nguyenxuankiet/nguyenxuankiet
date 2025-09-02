@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Kiet Nguyen Xuan  
 
-<!--
-**nguyenxuankiet/nguyenxuankiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **Data Analysis, BI, SQL**  
+💻 I have 7+ years of experience in **Marketing & Digital Strategy & Online/offline Marketing**  
+🚀 Exploring opportunities in Marketing rols
+📫 Reach me at: kiet.mar@gmail.com
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages for fund:** Python, SQL   
+- **Tools & Platforms to make marketing better:** GitHub, Google Analytics, Power BI, Tableau  
+- **Marketing : online/offline Marketing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Kiet’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenxuankiet&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenxuankiet&layout=compact&theme=radical)
+
+---
+
+## 📌 Current Focus
+- Building strong foundations in **data analysis & SQL**  
+- Practicing **Google Analytics 4, GTM, GSC**  
+- Exploring myself through youtube channel, people around me
+---
+
+## 🤝 Let’s Connect
+- ✉️ Email: [your email here]  
+- 💼 LinkedIn: [your LinkedIn link here]  
