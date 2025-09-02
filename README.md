@@ -27,5 +27,6 @@
 ---
 
 ## 🤝 Let’s Connect
-- ✉️ Email: [your email here]  
-- 💼 LinkedIn: [your LinkedIn link here]  
+- ✉️ Email: kiet.mar@gmail.com
+- Phone: +84 76 7438088
+- 💼 LinkedIn: @kietnguyenxuan
